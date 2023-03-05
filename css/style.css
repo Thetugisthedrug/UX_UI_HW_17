@@ -1,0 +1,46 @@
+/* Navbar CSS */
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+.nav {
+    width: 73%;
+    padding: 1%;
+}
+
+.ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+/* Hero Image */
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+/* Footer */
+.footer {
+    background-color: #373737;
+    padding: 10px;
+}
+
+footer ul {
+    display: inline-block;
+    vertical-aling: top;
+    padding: 2px;
+}
+
